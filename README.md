@@ -14,7 +14,7 @@
 
 - :zap: I am currently improving my skills and taking additional courses.
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush) [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush) [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)
 
 ---
 
