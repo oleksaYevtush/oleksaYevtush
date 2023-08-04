@@ -1,4 +1,4 @@
-# Hello World, my name is Oleksandra!!
+# Hello World👋 my name is Oleksandra!
 
 ---
 
