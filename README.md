@@ -8,7 +8,7 @@
  <img width="400" src="assets/github.gif" alt="github"/>
 </p>
 
-- :telescope:  I’m currently learning React/Redux
+- :telescope:  I’m currently learning TS/Redux
 
 - :seedling: I'm currently working on a volunteer project!
 
