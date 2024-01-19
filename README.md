@@ -48,7 +48,7 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/oleksaYevtush/oleksaYevtush"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=oleksaYevtush&theme=cobalt&hide_border=true&show_icons=true&count_private=true" alt="Oleksandra Yevtushenko GitHub Stats" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=oleksaYevtush&theme=tokyonight&border_radius=3.4&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
   </td>
   <td>
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksaYevtush&theme=outrun&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
