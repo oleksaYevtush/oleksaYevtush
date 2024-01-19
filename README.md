@@ -48,19 +48,19 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/olexaevtush/olexaevtush"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=oleksandraYevtushenko&theme=cobalt&hide_border=true&show_icons=true&count_private=true" alt="Oleksandra Yevtushenko GitHub Stats" /></a>
+  <a href="https://github.com/olexaevtush/olexaevtush"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=oleksaYevtush&theme=cobalt&hide_border=true&show_icons=true&count_private=true" alt="Oleksandra Yevtushenko GitHub Stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksandraYevtushenko&theme=outrun&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksaYevtush&theme=outrun&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksandraYevtushenko&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Oleksandra Yevtushenko GitHub Readme Streak Stats" /> </a>
+ <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksaYevtush&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Oleksandra Yevtushenko GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
 
 ### WakaTime Stats :
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oleksandraYevtushenko&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oleksaYevtush&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
