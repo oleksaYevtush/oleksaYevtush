@@ -45,8 +45,19 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olexaevtush&show_icons=true&theme=tokyonight)
+<table align="center">
+  <tr>
+  <td>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olexaevtush&show_icons=true&theme=tokyonight)
+  </td>
+  <td>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=olexaevtush&theme=modern-lilac&hide_border=true&border_radius=5.1&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+  </td>
+  </tr>
+</table>
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=olexaevtush&theme=modern-lilac&hide_border=true&border_radius=5.1&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
