@@ -63,5 +63,4 @@
 
 ### WakaTime Stats :
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?oleksandraYevtush&theme=neon)](https://github.com/oleksandraYevtushenko/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oleksandraYevtushenko&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
