@@ -1,9 +1,9 @@
 # Hello World👋 my name is Oleksandra!
 
-### :woman_technologist: I'm a beginning web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Although I have no professional experience, I am motivated, learning new techniques and improving my skills!
+### :woman_technologist: I'm a beginning web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. Although I have no professional experience, I am motivated, learning new techniques and improving my skills!
 
 <p align="center">
- <img width="400" src="assets/githubwo.gif" alt="github"/>
+ <img width="500" src="assets/githubwo.gif" alt="github"/>
 </p>
 
 - :telescope:  I’m currently learning TS/Redux
