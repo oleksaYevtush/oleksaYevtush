@@ -44,4 +44,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=olexaevtush&theme=modern-lilac&hide_border=true&border_radius=5.1&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
