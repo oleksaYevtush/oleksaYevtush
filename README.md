@@ -43,17 +43,20 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
----
+### GitHub Stats :
 
 <table align="center">
   <tr>
   <td>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olexaevtush&show_icons=true&theme=tokyonight)
+  <a href="https://github.com/olexaevtush/olexaevtush"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=oleksandraYevtushenko&hide_border=true&show_icons=true&count_private=true" alt="Oleksandra Yevtushenko GitHub Stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksandraYevtushenko&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
-  <td colspan=2>
- [![GitHub Streak](https://streak-stats.demolab.com?user=olexaevtush&theme=modern-lilac&hide_border=true&border_radius=5.1&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+  <td colspan=2 align="center">
+ <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksandraYevtushenko&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Oleksandra Yevtushenko GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
