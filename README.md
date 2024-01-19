@@ -51,7 +51,7 @@
   <a href="https://github.com/olexaevtush/olexaevtush"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=oleksandraYevtushenko&theme=cobalt&hide_border=true&show_icons=true&count_private=true" alt="Oleksandra Yevtushenko GitHub Stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksandraYevtushenko&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=oleksandraYevtushenko&theme=outrun&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
