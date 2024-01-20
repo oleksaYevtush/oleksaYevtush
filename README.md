@@ -1,4 +1,4 @@
-# <h1 align="center"> Hello World<img src="./assets/hello.gif" width="60px" height="60px" alt="GIF"> my name is Oleksandra! 
+# <h1 align="center"><img src="./assets/helloworld.gif" width="130px" height="100px" alt="GIF"> my name is Oleksandra! 
 </h1>
 
 ### <div align="center"> :woman_technologist: I'm a beginning web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. Although I have no professional experience, I am motivated, learning new techniques and improving my skills! </div>
