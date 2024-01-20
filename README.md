@@ -15,7 +15,6 @@
 - :seedling: I'm currently working on a volunteer project!
 
 - :zap: I am currently improving my skills and taking additional courses.
-
 - :mailbox: Contacts:
 - [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush) [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)[![LinkedIn Badge](https://img.shields.io/badge/%D0%9Eleksandra%20Yevtushenko-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/оleksandra-yevtushenko-b2a082228/)
 
