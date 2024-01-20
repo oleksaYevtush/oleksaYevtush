@@ -1,10 +1,10 @@
-# <h1 align="center"> Hello World<img src="./assets/hello.gif" width="30px" alt="GIF"> my name is Oleksandra! 
+# <h1 align="center"> Hello World<img src="./assets/hello.gif" width="60px" height="60px" alt="GIF"> my name is Oleksandra! 
 </h1>
 
 ### <div align="center"> :woman_technologist: I'm a beginning web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. Although I have no professional experience, I am motivated, learning new techniques and improving my skills! </div>
 
 <p align="center">
- <img width="400" src="assets/githubwo" alt="github"/>
+ <img width="400" src="./assets/githubwo.gif" alt="github"/>
 </p>
 <div align="center">
    <a href="https://github.com/oleksaYevtush/oleksaYevtush"> <img src="https://wakatime.com/badge/user/d071d91a-8cbf-4f72-8c78-001cb6b0c597.svg" alt="Wakatime" /></a>
