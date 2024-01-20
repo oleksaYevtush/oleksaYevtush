@@ -1,9 +1,9 @@
-# Hello World👋 my name is Oleksandra!
+# <div align="center"> Hello World👋 my name is Oleksandra! </div>
 
 ### <div align="center"> :woman_technologist: I'm a beginning web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. Although I have no professional experience, I am motivated, learning new techniques and improving my skills! </div>
 
 <p align="center">
- <img width="300" src="assets/githubwo.gif" alt="github"/>
+ <img width="400" src="assets/githubwo.gif" alt="github"/>
 </p>
 <div align="center">
    <a href="https://github.com/oleksaYevtush/oleksaYevtush"> <img src="https://wakatime.com/badge/user/d071d91a-8cbf-4f72-8c78-001cb6b0c597.svg" alt="Wakatime" /></a>
@@ -15,9 +15,8 @@
 
 - :zap: I am currently improving my skills and taking additional courses.
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush) [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)[![LinkedIn Badge](https://img.shields.io/badge/%D0%9Eleksandra%20Yevtushenko-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/оleksandra-yevtushenko-b2a082228/)
-
----
+- :mailbox: Contacts:
+- [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush) [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)[![LinkedIn Badge](https://img.shields.io/badge/%D0%9Eleksandra%20Yevtushenko-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/оleksandra-yevtushenko-b2a082228/)
 
 ### 💻  Technologies:
 
@@ -42,8 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="50" height="50"/>&nbsp;
 </div>
-
----
 
 ### 🛠 Tools:
 
