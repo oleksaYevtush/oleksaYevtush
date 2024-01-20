@@ -59,11 +59,8 @@
  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksaYevtush&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Oleksandra Yevtushenko GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
- <tr>
-  <td colspan=2 align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oleksaYevtush&theme=neon" alt="WakaTime Stats" /> </a>
-  </td>
-  </tr>
 </table>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oleksaYevtush&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 
