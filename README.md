@@ -1,7 +1,7 @@
 # <h1 align="center"><img src="./assets/helloworld.gif" width="130px" height="100px" alt="GIF"> my name is Oleksandra! 
 </h1>
 
-### <div align="center"> :woman_technologist: I'm a beginning Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I am a dedicated learner who keeps up with current industry trends to provide innovative solutions. I am keen to interact with fellow professionals and collaborate on new opportunities! </div>
+### <div align="center"> :woman_technologist: I'm a Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I am a dedicated learner who keeps up with current industry trends to provide innovative solutions. I am keen to interact with fellow professionals and collaborate on new opportunities! </div>
 
 <p align="center">
  <img width="400" src="./assets/githubwo.gif" alt="github"/>
