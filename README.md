@@ -10,7 +10,7 @@
    <a href="https://github.com/oleksaYevtush/oleksaYevtush"> <img src="https://wakatime.com/badge/user/d071d91a-8cbf-4f72-8c78-001cb6b0c597.svg" alt="Wakatime" /></a>
 </div>
 
-- :telescope:  I’m currently learning TS/Redux
+- :telescope:  I’m currently learning TS
 
 - :seedling: I'm currently working on a volunteer project!
 
