@@ -18,7 +18,7 @@
 - :mailbox: Contacts:
 - [![Telegram Badge](https://img.shields.io/badge/%40olexaevtush-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OlexaEvtush)
 - [![Gmail Badge](https://img.shields.io/badge/olexaevtush%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olexaevtush@gmail.com)
-- [![Linkedin Badge](https://img.shields.io/badge/%40olexaevtush-36454F?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/оleksa-yevtush/)
+- [![Linkedin Badge](https://img.shields.io/badge/Linkedin-36454F?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/оleksa-yevtush/)
 
 ### 💻  Technologies:
 
